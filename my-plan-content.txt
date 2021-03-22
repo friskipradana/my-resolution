@@ -4,3 +4,4 @@ Rencana Kontent
   * Create Music Visualizer
   * Creat Text Glow
 - Character design Learn
+  * Basic Draw
