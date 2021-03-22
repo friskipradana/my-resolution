@@ -1,4 +1,6 @@
 Rencana Kontent
 
 - Motion Graphic Learn
+  * Create Music Visualizer
+  * Creat Text Glow
 - Character design Learn
