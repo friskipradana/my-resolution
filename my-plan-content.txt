@@ -2,6 +2,7 @@ Rencana Kontent
 
 - Motion Graphic Learn
   * Create Music Visualizer
-  * Creat Text Glow
+  ^ Create Visual effect
 - Character design Learn
   * Basic Draw
+  ^ Digital sketch
