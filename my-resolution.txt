@@ -1,6 +1,8 @@
 My resolution
 Konsisten di =
 - Front End Developer
+  ^ Html
+  ^ Css
 - Character Design in 2021
 - Motion Graphic
 - Create Ecosystem with anything i have learning
