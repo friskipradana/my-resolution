@@ -5,3 +5,4 @@ Rencana Kontent
   * Creat Text Glow
 - Character design Learn
   * Basic Draw
+  ^ Digital sketch
